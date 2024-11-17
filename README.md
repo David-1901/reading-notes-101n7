@@ -1,45 +1,12 @@
-# Tìtulo principal
-## Otro título
-### Otro título
-#### Otro título
-##### Otro título
-###### Otro título
+# David Montalván
 
-- *text en cursiva*
-- **text en bold**
-- ***text en bold y cursiva***
+![David01](https://github.com/user-attachments/assets/7116ccfe-f811-41ea-b993-bcc9b3f5e6be)
 
-* Lista de tareas
-  * Item1
-  * Item2
-  * Item3
-* Otro elemento de la lista
+Vivo en Lima. Soy Profesional en logística con más de 10 años de experiencia. Ahora explorando el mundo del Desarrollo de Software, entusiasmado por aprender y aplicar.
 
-1. Luis
-2. Bruno
-3. David
-4. Pedro
+## Información de contacto
 
-* [Youtube](https://youtube.com)
-* ![Enter Tech](https://yt3.googleusercontent.com/xeilt_rqZkREVgmblVUeq3lYWETihV1n3-S6Te_k5xTs1Nrqo7XnZkdpXZUjEvOSBP1vDWMZeA=s900-c-k-c0x00ffffff-no-rj)
+*[Mi GitHub] (https://github.com/David-1901)
+*[Mi Facebook] (https://www.facebook.com/david.montalvan.m/)
 
-- `HTML y CSS`
 
-```html
-<html>
-  <head>
-    <title>Titulo de la web</title>
-  </head>
-  <body>
-    <h1>Hola mundo</h1>
-  </body>
-</html>
-```
-
-```js
-const nombre = "Linder";
-
-if (nombre === "Linder") {
-  console.log("Hola " + nombre);
-}
-```  
