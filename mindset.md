@@ -9,4 +9,4 @@ promueve la curiosidad y la resiliencia.
 2. **Cultiva la curiosidad y la voluntad de probar cosas nuevas**, desafiándote a ti mismo a salir de tu zona de confort y explorar nuevas habilidades y perspectivas.
 3. **Celebra tus logros**, por pequeños que parezcan, y recuerda que el crecimiento personal es un viaje constante y gradual, no una meta final.
 
-[Ir a README](./readme.md)
+[Ir al README](./README.md)
